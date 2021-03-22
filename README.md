@@ -1,2 +1,2 @@
 # wp-elements
-Whitepaper Elements
+Paperwhite Elements
