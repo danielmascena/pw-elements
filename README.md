@@ -1,2 +1,2 @@
-# wp-elements
+# PW-elements
 Paperwhite Elements
